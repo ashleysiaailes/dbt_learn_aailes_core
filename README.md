@@ -14,7 +14,3 @@ Try running the following commands:
 - Join the [chat](http://slack.getdbt.com/) on Slack for live discussions and support
 - Find [dbt events](https://events.getdbt.com) near you
 - Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
-# dbt_learn_aailes_core
-=======
-# dbt_learn_aailes_core
->>>>>>> a9c61c1f63d141aec9bb53405b4953492d2a50dc
